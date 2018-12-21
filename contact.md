@@ -7,7 +7,7 @@ feature-img: "img/color.png"
 
 If you would like to get started but don't know how just send me an email!
 
-<form action="https://getsimpleform.com/messages?form_api_token=" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=6e9b6b137450d81d8427522160d56f60" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='www.preppedforlyfe.com/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
